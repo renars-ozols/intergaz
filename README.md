@@ -1,3 +1,6 @@
+### Preview
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/43919610/214266885-b082ed57-18ba-4261-8216-ca2baa851f8a.gif)
+
 This project is a delivery management system that allows users to manage and track deliveries of liquid and material goods to clients. It includes features such as managing routes, deliveries, clients and addresses, as well as generating reports and viewing delivery statistics. Users can also view delivery details and client information. The system is built using the Laravel framework.
 
 ### Technologies used:
