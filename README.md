@@ -12,6 +12,7 @@ This project is a delivery management system that allows users to manage and tra
 ### To run project enter commands in your terminal:
 - clone project from github
 - composer install
+- npm install
 - enter your database settings in .env file as in .env.example
 - php artisan key:generate
 - npm run build
